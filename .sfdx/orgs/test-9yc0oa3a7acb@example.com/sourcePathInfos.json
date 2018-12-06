@@ -36,25 +36,23 @@
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 384,
-            "modifiedTime": 1543994266419,
-            "changeTime": 1543994266419,
-            "contentHash": "baf36054dcf75bbaf0b253b6ede0b43529a3cc52"
+            "size": 512,
+            "modifiedTime": 1544060335520,
+            "changeTime": 1544060335520,
+            "contentHash": "aecbfba1ecc32fd004fb14ea896a60af1b85b207"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 64,
-            "modifiedTime": 1543988901412,
-            "changeTime": 1543988901412,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 320,
+            "modifiedTime": 1544060335413,
+            "changeTime": 1544060335413,
+            "contentHash": "5ea7a1793f7c2bd74546cf8df6421da05f30443e"
         }
     ],
     [
@@ -677,10 +675,10 @@
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10498,
-            "modifiedTime": 1543994266367,
-            "changeTime": 1543994266367,
-            "contentHash": "8fa2d4ab8e468bd8afb85068be124ad84e95249f"
+            "size": 10924,
+            "modifiedTime": 1544060335449,
+            "changeTime": 1544060335449,
+            "contentHash": "7514d57ed5409fc778cf431efaf72c67beb8dbc5"
         }
     ],
     [
@@ -690,10 +688,10 @@
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 25016,
-            "modifiedTime": 1543994266399,
-            "changeTime": 1543994266399,
-            "contentHash": "a649f13a530ff2670a933ffb25d8cc6a24e169fe"
+            "size": 25440,
+            "modifiedTime": 1544060335501,
+            "changeTime": 1544060335501,
+            "contentHash": "b3ad70bbb73509dde6efa4f3a22848804151b82e"
         }
     ],
     [
@@ -703,10 +701,10 @@
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10834,
-            "modifiedTime": 1543994266404,
-            "changeTime": 1543994266404,
-            "contentHash": "f4dabe77c298c8f072e98ba080614cc0827aafc1"
+            "size": 11260,
+            "modifiedTime": 1544060335511,
+            "changeTime": 1544060335511,
+            "contentHash": "7674a8aed22365368949862522a5752a35c8347a"
         }
     ],
     [
@@ -716,10 +714,10 @@
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10494,
-            "modifiedTime": 1543994266413,
-            "changeTime": 1543994266413,
-            "contentHash": "4a808ce8b73f6da726d817b22239577b4bc9fc61"
+            "size": 10920,
+            "modifiedTime": 1544060335519,
+            "changeTime": 1544060335519,
+            "contentHash": "568e48ce0f822fba457fa4c803fffabc39534c5d"
         }
     ],
     [
@@ -751,14 +749,14 @@
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/objects",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 224,
             "modifiedTime": 1543994266348,
             "changeTime": 1543994266348,
-            "contentHash": "bf16ba11d9284d660bf9e104b0afe0bafd7e2588"
+            "contentHash": "bf16ba11d9284d660bf9e104b0afe0bafd7e2588",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -894,27 +892,27 @@
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/layouts",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 320,
             "modifiedTime": 1543994266354,
             "changeTime": 1543994266354,
-            "contentHash": "0ad7622f5de5a5f51acf6423052bf3a5ea0b934d"
+            "contentHash": "0ad7622f5de5a5f51acf6423052bf3a5ea0b934d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/tabs",
         {
+            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/tabs",
             "isDirectory": true,
-            "size": 160,
-            "modifiedTime": 1543990954610,
-            "changeTime": 1543990954610,
-            "contentHash": "a1a3c3b675f3be961d8e3cf8e64bbfa73b7a4bef",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 192,
+            "modifiedTime": 1544060335417,
+            "changeTime": 1544060335417,
+            "contentHash": "03f0b01577c78aacd146f5f12f88a3b847bbd931"
         }
     ],
     [
@@ -946,222 +944,222 @@
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/permissionsets/EasySpacesObjects.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/permissionsets/EasySpacesObjects.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 8603,
             "modifiedTime": 1543994266418,
             "changeTime": 1543994266418,
-            "contentHash": "44fbab6b97c8bc93f65808a19df9bf877247a201"
+            "contentHash": "44fbab6b97c8bc93f65808a19df9bf877247a201",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/Customer_Fields__mdt.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/Customer_Fields__mdt.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 236,
             "modifiedTime": 1543994266349,
             "changeTime": 1543994266349,
-            "contentHash": "ef6ad44cd1debd770cacef0f3c93c29fefb8b035"
+            "contentHash": "ef6ad44cd1debd770cacef0f3c93c29fefb8b035",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_City__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_City__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 395,
             "modifiedTime": 1543994266349,
             "changeTime": 1543994266349,
-            "contentHash": "ada6ccae9353762ea32372a9af05b1e3db136139"
+            "contentHash": "ada6ccae9353762ea32372a9af05b1e3db136139",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_Email__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_Email__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 682,
             "modifiedTime": 1543994266349,
             "changeTime": 1543994266349,
-            "contentHash": "3a8b971d1b2bf5458826a1fc463cd1292ed624b4"
+            "contentHash": "3a8b971d1b2bf5458826a1fc463cd1292ed624b4",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_Name__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_Name__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 678,
             "modifiedTime": 1543994266350,
             "changeTime": 1543994266350,
-            "contentHash": "e4f1df3e02d40f7ab5849f0de895b2628b5e7245"
+            "contentHash": "e4f1df3e02d40f7ab5849f0de895b2628b5e7245",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_State__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_State__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 397,
             "modifiedTime": 1543994266350,
             "changeTime": 1543994266350,
-            "contentHash": "443845b358ba1fef20224455bd30fe5df3721d36"
+            "contentHash": "443845b358ba1fef20224455bd30fe5df3721d36",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_Status__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_Status__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 672,
             "modifiedTime": 1543994266350,
             "changeTime": 1543994266350,
-            "contentHash": "5c36e886f35e6c26c0f97c07da590ff509975cad"
+            "contentHash": "5c36e886f35e6c26c0f97c07da590ff509975cad",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Sobject_Type__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Sobject_Type__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 549,
             "modifiedTime": 1543994266350,
             "changeTime": 1543994266350,
-            "contentHash": "77074a9a7043bdfbe4418f947d5d46c6245f89c2"
+            "contentHash": "77074a9a7043bdfbe4418f947d5d46c6245f89c2",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/layouts/Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/layouts/Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3198,
             "modifiedTime": 1543994266354,
             "changeTime": 1543994266354,
-            "contentHash": "411ffd57f41aaf0fe11b4d9d0827122219ac7b42"
+            "contentHash": "411ffd57f41aaf0fe11b4d9d0827122219ac7b42",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/classes/reservationManagerController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/classes/reservationManagerController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1543994266355,
             "changeTime": 1543994266355,
-            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/classes/reservationManagerController.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/classes/reservationManagerController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1773,
             "modifiedTime": 1543994266356,
             "changeTime": 1543994266356,
-            "contentHash": "2ee6a7535c6e87674f9eec2d56d4af75b6d93480"
+            "contentHash": "2ee6a7535c6e87674f9eec2d56d4af75b6d93480",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/classes/customerServices.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/classes/customerServices.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1543994266356,
             "changeTime": 1543994266356,
-            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/classes/customerServices.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/classes/customerServices.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1715,
             "modifiedTime": 1543994266357,
             "changeTime": 1543994266357,
-            "contentHash": "c9d4523cd11c9950c1fbf8c8e1799465b507aa7f"
+            "contentHash": "c9d4523cd11c9950c1fbf8c8e1799465b507aa7f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/customMetadata/Customer_Fields.Contact_Customer_Fields.md-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/customMetadata/Customer_Fields.Contact_Customer_Fields.md-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1003,
             "modifiedTime": 1543994266419,
             "changeTime": 1543994266419,
-            "contentHash": "2c88a0c59843bcf5dcef96726ce22e1c5bb202e8"
+            "contentHash": "2c88a0c59843bcf5dcef96726ce22e1c5bb202e8",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/customMetadata/Customer_Fields.Lead_Customer_Fields.md-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/customMetadata/Customer_Fields.Lead_Customer_Fields.md-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 983,
             "modifiedTime": 1543994266420,
             "changeTime": 1543994266420,
-            "contentHash": "da97824a35624b9c8e582ddc773fedfae864870d"
+            "contentHash": "da97824a35624b9c8e582ddc773fedfae864870d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1543994266349,
             "changeTime": 1543994266349,
-            "contentHash": "e1b2731ee3f217f9c3cae2b1daba8b54db2c1a48"
+            "contentHash": "e1b2731ee3f217f9c3cae2b1daba8b54db2c1a48",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 256,
             "modifiedTime": 1543994266350,
             "changeTime": 1543994266350,
-            "contentHash": "02b95b649e97ca8796cee9b0dbc2ab38723358e1"
+            "contentHash": "02b95b649e97ca8796cee9b0dbc2ab38723358e1",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1171,23 +1169,686 @@
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/classes",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 192,
-            "modifiedTime": 1543994266357,
-            "changeTime": 1543994266357,
-            "contentHash": "db8d4fb2830b729e355c21338865355650835a05"
+            "size": 256,
+            "modifiedTime": 1544060335428,
+            "changeTime": 1544060335428,
+            "contentHash": "d5a04d3553b138a27ad9f7ee49d65723d30fe507"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/customMetadata",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/customMetadata",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1543994266420,
             "changeTime": 1543994266420,
-            "contentHash": "8c4a1bc7d3669586825751418de2b87ab0cc82dd"
+            "contentHash": "8c4a1bc7d3669586825751418de2b87ab0cc82dd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerList/customerList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerList/customerList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544060335404,
+            "changeTime": 1544060335404,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerList/customerListHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerList/customerListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 368,
+            "modifiedTime": 1544060335405,
+            "changeTime": 1544060335405,
+            "contentHash": "f199dea07c23eee1dac3d40025f53ee36e0c2c93"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerList/customerListController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerList/customerListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 568,
+            "modifiedTime": 1544060335405,
+            "changeTime": 1544060335405,
+            "contentHash": "30a06d26321635916daf1a841c9830a077834d98"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerList/customerList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerList/customerList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 729,
+            "modifiedTime": 1544060335405,
+            "changeTime": 1544060335405,
+            "contentHash": "152622c26ed9cdb2b9b19b99592039d3ed59081b"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerList/customerList.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerList/customerList.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 186,
+            "modifiedTime": 1544060335406,
+            "changeTime": 1544060335406,
+            "contentHash": "3c5e3425150d89b530acb0ce30a2e09027678127"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerService/customerService.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerService/customerService.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544060335407,
+            "changeTime": 1544060335407,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerService/customerServiceController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerService/customerServiceController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 618,
+            "modifiedTime": 1544060335407,
+            "changeTime": 1544060335407,
+            "contentHash": "7bf90569ad9c73ab0411a9f32e981d44fb81c846"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerService/customerService.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerService/customerService.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 359,
+            "modifiedTime": 1544060335407,
+            "changeTime": 1544060335407,
+            "contentHash": "47f3eddcb20658074618f60502b2e7f9f98fdad1"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544060335408,
+            "changeTime": 1544060335408,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1544060335408,
+            "changeTime": 1544060335408,
+            "contentHash": "71c611eef7647e56d00005513d8e014608317cef"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordActionController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordActionController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 579,
+            "modifiedTime": 1544060335408,
+            "changeTime": 1544060335408,
+            "contentHash": "4429cdefd86da55ecd225ebceb13f0bfe1e345bd"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 258,
+            "modifiedTime": 1544060335409,
+            "changeTime": 1544060335409,
+            "contentHash": "856261b282d496b811c6bd9b3da772b512a49c42"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelper.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelper.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544060335409,
+            "changeTime": 1544060335409,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelper.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelper.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1078,
+            "modifiedTime": 1544060335409,
+            "changeTime": 1544060335409,
+            "contentHash": "15ede58d67ad69fea72a952988df6483eff62bc9"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelperHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelperHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1008,
+            "modifiedTime": 1544060335409,
+            "changeTime": 1544060335409,
+            "contentHash": "adfbe9717dd982e2d24aa9cb04f6b63bb1f0cd36"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelperController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelperController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1310,
+            "modifiedTime": 1544060335410,
+            "changeTime": 1544060335410,
+            "contentHash": "35bab6e1ad9701cb233537652997e04be890f67f"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544060335410,
+            "changeTime": 1544060335410,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 471,
+            "modifiedTime": 1544060335411,
+            "changeTime": 1544060335411,
+            "contentHash": "2465c24ffc15a2d566040b5c5af8bd51c8b3d804"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetailsHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetailsHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 741,
+            "modifiedTime": 1544060335411,
+            "changeTime": 1544060335411,
+            "contentHash": "f7383dfa589a36182d7021e74a45c6c5d9b7a9a1"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetailsController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetailsController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1818,
+            "modifiedTime": 1544060335411,
+            "changeTime": 1544060335411,
+            "contentHash": "f5235c3b6294a936c822059c3c2f2cd73d66f88f"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4282,
+            "modifiedTime": 1544060335411,
+            "changeTime": 1544060335411,
+            "contentHash": "1dad89d0d08432734b8775ce7f3166d730de9962"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544060335412,
+            "changeTime": 1544060335412,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerTile/customerTileHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerTile/customerTileHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 658,
+            "modifiedTime": 1544060335412,
+            "changeTime": 1544060335412,
+            "contentHash": "92e20e8a2f341b6275714405ced39bcc162be0e2"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1600,
+            "modifiedTime": 1544060335412,
+            "changeTime": 1544060335412,
+            "contentHash": "7368b83da99efba171114d33f02adb117a95586c"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerTile/customerTileController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerTile/customerTileController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1311,
+            "modifiedTime": 1544060335412,
+            "changeTime": 1544060335412,
+            "contentHash": "f5a4c28fef9facaffc87de7a20db07fa68d2ba0a"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerListHarnessApp/customerListHarnessApp.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerListHarnessApp/customerListHarnessApp.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544060335413,
+            "changeTime": 1544060335413,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerListHarnessApp/customerListHarnessApp.app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerListHarnessApp/customerListHarnessApp.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 61,
+            "modifiedTime": 1544060335413,
+            "changeTime": 1544060335413,
+            "contentHash": "7984a676e0685428bedaa144d4b618409468016a"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/marketService/marketService.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/marketService/marketService.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544060335414,
+            "changeTime": 1544060335414,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/marketService/marketServiceController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/marketService/marketServiceController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1126,
+            "modifiedTime": 1544060335414,
+            "changeTime": 1544060335414,
+            "contentHash": "3553bd6559b4a5422a9b74e65bc910ffa8534570"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/marketService/marketService.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/marketService/marketService.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 516,
+            "modifiedTime": 1544060335414,
+            "changeTime": 1544060335414,
+            "contentHash": "6155a39f4ffe92d8e7fcc3cc4d452b39e64b6e5c"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/flexipages/Space_Management_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/flexipages/Space_Management_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 511,
+            "modifiedTime": 1544060335415,
+            "changeTime": 1544060335415,
+            "contentHash": "f963b7216a591546c07b67944b731b1858928d7a"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/flexipages/Reservation_Manager.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/flexipages/Reservation_Manager.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1153,
+            "modifiedTime": 1544060335417,
+            "changeTime": 1544060335417,
+            "contentHash": "63a6c155682e6089824435a9d4373f29e2235ae8"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/tabs/Reservation_Manager.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/tabs/Reservation_Manager.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 334,
+            "modifiedTime": 1544060335418,
+            "changeTime": 1544060335418,
+            "contentHash": "03b2ee5468ca14ca08c99f0c7512bd18daf89d1e"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/applications/Space_Management.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/applications/Space_Management.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1506,
+            "modifiedTime": 1544060335419,
+            "changeTime": 1544060335419,
+            "contentHash": "e264fb321397cbd172496412356825b0d14ec5ed"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/flows/Create_Reservation.flow-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/flows/Create_Reservation.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 11205,
+            "modifiedTime": 1544060335426,
+            "changeTime": 1544060335426,
+            "contentHash": "ed4c7e620f3a9d615b57b6ee5e86a45a3176f731"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/classes/marketServices.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/classes/marketServices.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1544060335428,
+            "changeTime": 1544060335428,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/classes/marketServices.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/classes/marketServices.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 555,
+            "modifiedTime": 1544060335428,
+            "changeTime": 1544060335428,
+            "contentHash": "6c7382bc7498b153a1f81b64928f36d3d490c236"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/contentassets/EasySpacesTile01.asset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/contentassets/EasySpacesTile01.asset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 545,
+            "modifiedTime": 1544060335520,
+            "changeTime": 1544060335520,
+            "contentHash": "2d8c95659f0519dd4e501e3ba976fa08fdb6ee4c"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/contentassets/EasySpacesTile01.asset",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/contentassets/EasySpacesTile01.asset",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 148954,
+            "modifiedTime": 1544060335520,
+            "changeTime": 1544060335520,
+            "contentHash": "ceaf48b495afd38bde7871e9ba9f0ad5f0c90a05"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerList",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1544060335406,
+            "changeTime": 1544060335406,
+            "contentHash": "b5c213d13d76df90d4462131a018318545af2ad9"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerService",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerService",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1544060335407,
+            "changeTime": 1544060335407,
+            "contentHash": "18684102a7cb0b8d23d4082c21d7c56710f93020"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/openRecordAction",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/openRecordAction",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1544060335409,
+            "changeTime": 1544060335409,
+            "contentHash": "7321c378df769877e40355f5bfce9a1b58e27b86"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationHelper",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationHelper",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1544060335410,
+            "changeTime": 1544060335410,
+            "contentHash": "e14a5c0dee87372f52d8a7288d8ab15b5b9b5912"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerDetails",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerDetails",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1544060335411,
+            "changeTime": 1544060335411,
+            "contentHash": "90c25825552f67096b05b6a3bb72ad590d311435"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerTile",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerTile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1544060335412,
+            "changeTime": 1544060335412,
+            "contentHash": "5d6ec868b1822a6e09cbf3669530d73aebc057e9"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerListHarnessApp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerListHarnessApp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1544060335413,
+            "changeTime": 1544060335413,
+            "contentHash": "f4c17d44da5ac48d8c537d1fb2da17a3a275f4fa"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/marketService",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/marketService",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1544060335414,
+            "changeTime": 1544060335414,
+            "contentHash": "236380a092cbeeff756e489e78ba6b93a6c1eed7"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1544060335417,
+            "changeTime": 1544060335417,
+            "contentHash": "39e1472f6b460f4fe240d4def5990e32a3498957"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/applications",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544060335419,
+            "changeTime": 1544060335419,
+            "contentHash": "158c976a36a87f116211b68b6b287be4ac5f9591"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/flows",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/flows",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544060335426,
+            "changeTime": 1544060335426,
+            "contentHash": "c53bb997fcb74b4f8eb3633e5c25968e2429ba09"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/contentassets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1544060335520,
+            "changeTime": 1544060335520,
+            "contentHash": "9048ce2ca7911dd30382559ef1604aa192fb3eb6"
         }
     ]
 ]
