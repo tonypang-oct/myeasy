@@ -32,14 +32,14 @@
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 512,
             "modifiedTime": 1544060335520,
             "changeTime": 1544060335520,
-            "contentHash": "aecbfba1ecc32fd004fb14ea896a60af1b85b207"
+            "contentHash": "aecbfba1ecc32fd004fb14ea896a60af1b85b207",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -49,10 +49,10 @@
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 320,
-            "modifiedTime": 1544060335413,
-            "changeTime": 1544060335413,
-            "contentHash": "5ea7a1793f7c2bd74546cf8df6421da05f30443e"
+            "size": 736,
+            "modifiedTime": 1544068027181,
+            "changeTime": 1544068027181,
+            "contentHash": "6803dd85725aa0166fc24864e0faf38d397bd725"
         }
     ],
     [
@@ -675,10 +675,10 @@
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10924,
-            "modifiedTime": 1544060335449,
-            "changeTime": 1544060335449,
-            "contentHash": "7514d57ed5409fc778cf431efaf72c67beb8dbc5"
+            "size": 10920,
+            "modifiedTime": 1544068027208,
+            "changeTime": 1544068027208,
+            "contentHash": "2f990380716b218b1368af8d992e1a3fd6cde121"
         }
     ],
     [
@@ -688,10 +688,10 @@
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 25440,
-            "modifiedTime": 1544060335501,
-            "changeTime": 1544060335501,
-            "contentHash": "b3ad70bbb73509dde6efa4f3a22848804151b82e"
+            "size": 25436,
+            "modifiedTime": 1544068027256,
+            "changeTime": 1544068027256,
+            "contentHash": "4e25fd17846757c436850c7b9e8c88ad43dceb32"
         }
     ],
     [
@@ -701,10 +701,10 @@
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 11260,
-            "modifiedTime": 1544060335511,
-            "changeTime": 1544060335511,
-            "contentHash": "7674a8aed22365368949862522a5752a35c8347a"
+            "size": 11256,
+            "modifiedTime": 1544068027265,
+            "changeTime": 1544068027265,
+            "contentHash": "7b7d36d7d75166756c3760dc6e9af6bfbb15aac8"
         }
     ],
     [
@@ -714,10 +714,10 @@
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10920,
-            "modifiedTime": 1544060335519,
-            "changeTime": 1544060335519,
-            "contentHash": "568e48ce0f822fba457fa4c803fffabc39534c5d"
+            "size": 10916,
+            "modifiedTime": 1544068027275,
+            "changeTime": 1544068027275,
+            "contentHash": "92be88c2f639d96c0a80e94d7d7ccd973e1b5d15"
         }
     ],
     [
@@ -909,10 +909,10 @@
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/tabs",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 192,
-            "modifiedTime": 1544060335417,
-            "changeTime": 1544060335417,
-            "contentHash": "03f0b01577c78aacd146f5f12f88a3b847bbd931"
+            "size": 224,
+            "modifiedTime": 1544068027183,
+            "changeTime": 1544068027183,
+            "contentHash": "219b56b2d2cb9da1ef11c7b970f80f5d65c05bb9"
         }
     ],
     [
@@ -1165,14 +1165,14 @@
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 256,
             "modifiedTime": 1544060335428,
             "changeTime": 1544060335428,
-            "contentHash": "d5a04d3553b138a27ad9f7ee49d65723d30fe507"
+            "contentHash": "d5a04d3553b138a27ad9f7ee49d65723d30fe507",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1191,300 +1191,300 @@
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerList/customerList.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerList/customerList.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1544060335404,
             "changeTime": 1544060335404,
-            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerList/customerListHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerList/customerListHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 368,
             "modifiedTime": 1544060335405,
             "changeTime": 1544060335405,
-            "contentHash": "f199dea07c23eee1dac3d40025f53ee36e0c2c93"
+            "contentHash": "f199dea07c23eee1dac3d40025f53ee36e0c2c93",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerList/customerListController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerList/customerListController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 568,
             "modifiedTime": 1544060335405,
             "changeTime": 1544060335405,
-            "contentHash": "30a06d26321635916daf1a841c9830a077834d98"
+            "contentHash": "30a06d26321635916daf1a841c9830a077834d98",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerList/customerList.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerList/customerList.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 729,
             "modifiedTime": 1544060335405,
             "changeTime": 1544060335405,
-            "contentHash": "152622c26ed9cdb2b9b19b99592039d3ed59081b"
+            "contentHash": "152622c26ed9cdb2b9b19b99592039d3ed59081b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerList/customerList.design",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerList/customerList.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 186,
             "modifiedTime": 1544060335406,
             "changeTime": 1544060335406,
-            "contentHash": "3c5e3425150d89b530acb0ce30a2e09027678127"
+            "contentHash": "3c5e3425150d89b530acb0ce30a2e09027678127",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerService/customerService.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerService/customerService.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1544060335407,
             "changeTime": 1544060335407,
-            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerService/customerServiceController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerService/customerServiceController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 618,
             "modifiedTime": 1544060335407,
             "changeTime": 1544060335407,
-            "contentHash": "7bf90569ad9c73ab0411a9f32e981d44fb81c846"
+            "contentHash": "7bf90569ad9c73ab0411a9f32e981d44fb81c846",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerService/customerService.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerService/customerService.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 359,
             "modifiedTime": 1544060335407,
             "changeTime": 1544060335407,
-            "contentHash": "47f3eddcb20658074618f60502b2e7f9f98fdad1"
+            "contentHash": "47f3eddcb20658074618f60502b2e7f9f98fdad1",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1544060335408,
             "changeTime": 1544060335408,
-            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.design",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 160,
             "modifiedTime": 1544060335408,
             "changeTime": 1544060335408,
-            "contentHash": "71c611eef7647e56d00005513d8e014608317cef"
+            "contentHash": "71c611eef7647e56d00005513d8e014608317cef",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordActionController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordActionController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 579,
             "modifiedTime": 1544060335408,
             "changeTime": 1544060335408,
-            "contentHash": "4429cdefd86da55ecd225ebceb13f0bfe1e345bd"
+            "contentHash": "4429cdefd86da55ecd225ebceb13f0bfe1e345bd",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 258,
             "modifiedTime": 1544060335409,
             "changeTime": 1544060335409,
-            "contentHash": "856261b282d496b811c6bd9b3da772b512a49c42"
+            "contentHash": "856261b282d496b811c6bd9b3da772b512a49c42",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelper.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelper.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1544060335409,
             "changeTime": 1544060335409,
-            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelper.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelper.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1078,
             "modifiedTime": 1544060335409,
             "changeTime": 1544060335409,
-            "contentHash": "15ede58d67ad69fea72a952988df6483eff62bc9"
+            "contentHash": "15ede58d67ad69fea72a952988df6483eff62bc9",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelperHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelperHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1008,
             "modifiedTime": 1544060335409,
             "changeTime": 1544060335409,
-            "contentHash": "adfbe9717dd982e2d24aa9cb04f6b63bb1f0cd36"
+            "contentHash": "adfbe9717dd982e2d24aa9cb04f6b63bb1f0cd36",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelperController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelperController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1310,
             "modifiedTime": 1544060335410,
             "changeTime": 1544060335410,
-            "contentHash": "35bab6e1ad9701cb233537652997e04be890f67f"
+            "contentHash": "35bab6e1ad9701cb233537652997e04be890f67f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1544060335410,
             "changeTime": 1544060335410,
-            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.design",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 471,
             "modifiedTime": 1544060335411,
             "changeTime": 1544060335411,
-            "contentHash": "2465c24ffc15a2d566040b5c5af8bd51c8b3d804"
+            "contentHash": "2465c24ffc15a2d566040b5c5af8bd51c8b3d804",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetailsHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetailsHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 741,
             "modifiedTime": 1544060335411,
             "changeTime": 1544060335411,
-            "contentHash": "f7383dfa589a36182d7021e74a45c6c5d9b7a9a1"
+            "contentHash": "f7383dfa589a36182d7021e74a45c6c5d9b7a9a1",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetailsController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetailsController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1818,
             "modifiedTime": 1544060335411,
             "changeTime": 1544060335411,
-            "contentHash": "f5235c3b6294a936c822059c3c2f2cd73d66f88f"
+            "contentHash": "f5235c3b6294a936c822059c3c2f2cd73d66f88f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 4282,
             "modifiedTime": 1544060335411,
             "changeTime": 1544060335411,
-            "contentHash": "1dad89d0d08432734b8775ce7f3166d730de9962"
+            "contentHash": "1dad89d0d08432734b8775ce7f3166d730de9962",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1544060335412,
             "changeTime": 1544060335412,
-            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerTile/customerTileHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerTile/customerTileHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 658,
             "modifiedTime": 1544060335412,
             "changeTime": 1544060335412,
-            "contentHash": "92e20e8a2f341b6275714405ced39bcc162be0e2"
+            "contentHash": "92e20e8a2f341b6275714405ced39bcc162be0e2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1494,127 +1494,127 @@
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 1600,
-            "modifiedTime": 1544060335412,
-            "changeTime": 1544060335412,
-            "contentHash": "7368b83da99efba171114d33f02adb117a95586c"
+            "size": 1590,
+            "modifiedTime": 1544068027171,
+            "changeTime": 1544068027171,
+            "contentHash": "cfe84e2252f1a87772dbe02d0aedb16803021354"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerTile/customerTileController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerTile/customerTileController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1311,
             "modifiedTime": 1544060335412,
             "changeTime": 1544060335412,
-            "contentHash": "f5a4c28fef9facaffc87de7a20db07fa68d2ba0a"
+            "contentHash": "f5a4c28fef9facaffc87de7a20db07fa68d2ba0a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerListHarnessApp/customerListHarnessApp.app-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerListHarnessApp/customerListHarnessApp.app-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1544060335413,
             "changeTime": 1544060335413,
-            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerListHarnessApp/customerListHarnessApp.app",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerListHarnessApp/customerListHarnessApp.app",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 61,
             "modifiedTime": 1544060335413,
             "changeTime": 1544060335413,
-            "contentHash": "7984a676e0685428bedaa144d4b618409468016a"
+            "contentHash": "7984a676e0685428bedaa144d4b618409468016a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/marketService/marketService.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/marketService/marketService.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1544060335414,
             "changeTime": 1544060335414,
-            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/marketService/marketServiceController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/marketService/marketServiceController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1126,
             "modifiedTime": 1544060335414,
             "changeTime": 1544060335414,
-            "contentHash": "3553bd6559b4a5422a9b74e65bc910ffa8534570"
+            "contentHash": "3553bd6559b4a5422a9b74e65bc910ffa8534570",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/marketService/marketService.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/marketService/marketService.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 516,
             "modifiedTime": 1544060335414,
             "changeTime": 1544060335414,
-            "contentHash": "6155a39f4ffe92d8e7fcc3cc4d452b39e64b6e5c"
+            "contentHash": "6155a39f4ffe92d8e7fcc3cc4d452b39e64b6e5c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/flexipages/Space_Management_UtilityBar.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/flexipages/Space_Management_UtilityBar.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 511,
             "modifiedTime": 1544060335415,
             "changeTime": 1544060335415,
-            "contentHash": "f963b7216a591546c07b67944b731b1858928d7a"
+            "contentHash": "f963b7216a591546c07b67944b731b1858928d7a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/flexipages/Reservation_Manager.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/flexipages/Reservation_Manager.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1153,
             "modifiedTime": 1544060335417,
             "changeTime": 1544060335417,
-            "contentHash": "63a6c155682e6089824435a9d4373f29e2235ae8"
+            "contentHash": "63a6c155682e6089824435a9d4373f29e2235ae8",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/tabs/Reservation_Manager.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/tabs/Reservation_Manager.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 334,
             "modifiedTime": 1544060335418,
             "changeTime": 1544060335418,
-            "contentHash": "03b2ee5468ca14ca08c99f0c7512bd18daf89d1e"
+            "contentHash": "03b2ee5468ca14ca08c99f0c7512bd18daf89d1e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -1624,140 +1624,140 @@
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/applications/Space_Management.app-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 1506,
-            "modifiedTime": 1544060335419,
-            "changeTime": 1544060335419,
-            "contentHash": "e264fb321397cbd172496412356825b0d14ec5ed"
+            "size": 1617,
+            "modifiedTime": 1544068027185,
+            "changeTime": 1544068027185,
+            "contentHash": "056b457579ad208caabd5037af91105ae260f782"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/flows/Create_Reservation.flow-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/flows/Create_Reservation.flow-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 11205,
             "modifiedTime": 1544060335426,
             "changeTime": 1544060335426,
-            "contentHash": "ed4c7e620f3a9d615b57b6ee5e86a45a3176f731"
+            "contentHash": "ed4c7e620f3a9d615b57b6ee5e86a45a3176f731",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/classes/marketServices.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/classes/marketServices.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1544060335428,
             "changeTime": 1544060335428,
-            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/classes/marketServices.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/classes/marketServices.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 555,
             "modifiedTime": 1544060335428,
             "changeTime": 1544060335428,
-            "contentHash": "6c7382bc7498b153a1f81b64928f36d3d490c236"
+            "contentHash": "6c7382bc7498b153a1f81b64928f36d3d490c236",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/contentassets/EasySpacesTile01.asset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/contentassets/EasySpacesTile01.asset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 545,
             "modifiedTime": 1544060335520,
             "changeTime": 1544060335520,
-            "contentHash": "2d8c95659f0519dd4e501e3ba976fa08fdb6ee4c"
+            "contentHash": "2d8c95659f0519dd4e501e3ba976fa08fdb6ee4c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/contentassets/EasySpacesTile01.asset",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/contentassets/EasySpacesTile01.asset",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 148954,
             "modifiedTime": 1544060335520,
             "changeTime": 1544060335520,
-            "contentHash": "ceaf48b495afd38bde7871e9ba9f0ad5f0c90a05"
+            "contentHash": "ceaf48b495afd38bde7871e9ba9f0ad5f0c90a05",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerList",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerList",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 224,
             "modifiedTime": 1544060335406,
             "changeTime": 1544060335406,
-            "contentHash": "b5c213d13d76df90d4462131a018318545af2ad9"
+            "contentHash": "b5c213d13d76df90d4462131a018318545af2ad9",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerService",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerService",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 160,
             "modifiedTime": 1544060335407,
             "changeTime": 1544060335407,
-            "contentHash": "18684102a7cb0b8d23d4082c21d7c56710f93020"
+            "contentHash": "18684102a7cb0b8d23d4082c21d7c56710f93020",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/openRecordAction",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/openRecordAction",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1544060335409,
             "changeTime": 1544060335409,
-            "contentHash": "7321c378df769877e40355f5bfce9a1b58e27b86"
+            "contentHash": "7321c378df769877e40355f5bfce9a1b58e27b86",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationHelper",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationHelper",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1544060335410,
             "changeTime": 1544060335410,
-            "contentHash": "e14a5c0dee87372f52d8a7288d8ab15b5b9b5912"
+            "contentHash": "e14a5c0dee87372f52d8a7288d8ab15b5b9b5912",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerDetails",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerDetails",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 224,
             "modifiedTime": 1544060335411,
             "changeTime": 1544060335411,
-            "contentHash": "90c25825552f67096b05b6a3bb72ad590d311435"
+            "contentHash": "90c25825552f67096b05b6a3bb72ad590d311435",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1767,36 +1767,36 @@
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerTile",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 192,
-            "modifiedTime": 1544060335412,
-            "changeTime": 1544060335412,
-            "contentHash": "5d6ec868b1822a6e09cbf3669530d73aebc057e9"
+            "size": 224,
+            "modifiedTime": 1544068027171,
+            "changeTime": 1544068027171,
+            "contentHash": "c4bd58ae7663c68dc57648f6a93adc1c7202cef9"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerListHarnessApp",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerListHarnessApp",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1544060335413,
             "changeTime": 1544060335413,
-            "contentHash": "f4c17d44da5ac48d8c537d1fb2da17a3a275f4fa"
+            "contentHash": "f4c17d44da5ac48d8c537d1fb2da17a3a275f4fa",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/aura/marketService",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/marketService",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 160,
             "modifiedTime": 1544060335414,
             "changeTime": 1544060335414,
-            "contentHash": "236380a092cbeeff756e489e78ba6b93a6c1eed7"
+            "contentHash": "236380a092cbeeff756e489e78ba6b93a6c1eed7",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1806,23 +1806,23 @@
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/flexipages",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 128,
-            "modifiedTime": 1544060335417,
-            "changeTime": 1544060335417,
-            "contentHash": "39e1472f6b460f4fe240d4def5990e32a3498957"
+            "size": 160,
+            "modifiedTime": 1544068027182,
+            "changeTime": 1544068027182,
+            "contentHash": "f3d9119ea48e225db2ca7fa829a77897123dd2c1"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/applications",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/applications",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1544060335419,
             "changeTime": 1544060335419,
-            "contentHash": "158c976a36a87f116211b68b6b287be4ac5f9591"
+            "contentHash": "158c976a36a87f116211b68b6b287be4ac5f9591",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1832,23 +1832,829 @@
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/flows",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 96,
-            "modifiedTime": 1544060335426,
-            "changeTime": 1544060335426,
-            "contentHash": "c53bb997fcb74b4f8eb3633e5c25968e2429ba09"
+            "size": 128,
+            "modifiedTime": 1544068027187,
+            "changeTime": 1544068027187,
+            "contentHash": "8851a4a3d2777b8fb475971656dc343b1a3a9bbc"
         }
     ],
     [
         "/Users/tkpang/dev/myeasy/force-app/main/default/contentassets",
         {
-            "state": "u",
             "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/contentassets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1544060335520,
             "changeTime": 1544060335520,
-            "contentHash": "9048ce2ca7911dd30382559ef1604aa192fb3eb6"
+            "contentHash": "9048ce2ca7911dd30382559ef1604aa192fb3eb6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pill/pill.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pill/pill.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544068027165,
+            "changeTime": 1544068027165,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pill/pillHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pill/pillHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 775,
+            "modifiedTime": 1544068027165,
+            "changeTime": 1544068027165,
+            "contentHash": "948c69068b40cb0ffeea3e869b33fb0dd4b4d811"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pill/pillController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pill/pillController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 355,
+            "modifiedTime": 1544068027166,
+            "changeTime": 1544068027166,
+            "contentHash": "afcef34e80d43c4530ec7f3d9c31560e12786f1f"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pill/pill.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pill/pill.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 113,
+            "modifiedTime": 1544068027166,
+            "changeTime": 1544068027166,
+            "contentHash": "ea13cdb58cf2e8e30fb40c4dd768b2bf8a84f5df"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pill/pill.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pill/pill.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 560,
+            "modifiedTime": 1544068027166,
+            "changeTime": 1544068027166,
+            "contentHash": "4c1f814a0225267eea8768c65136e7591c53ca9a"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationList/reservationList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationList/reservationList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544068027167,
+            "changeTime": 1544068027167,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationList/reservationList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationList/reservationList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 741,
+            "modifiedTime": 1544068027167,
+            "changeTime": 1544068027167,
+            "contentHash": "9275f15414db18db9e75a1a89185c9cb73dd3683"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationList/reservationList.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationList/reservationList.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1485,
+            "modifiedTime": 1544068027168,
+            "changeTime": 1544068027168,
+            "contentHash": "b1f927dc99535690aaac0a03e799d5912796b619"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationList/reservationListController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationList/reservationListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 318,
+            "modifiedTime": 1544068027168,
+            "changeTime": 1544068027168,
+            "contentHash": "5bcb3bc37a4d2826757edb16bd7ccdaa9bfa6a5b"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationTile/reservationTile.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationTile/reservationTile.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544068027169,
+            "changeTime": 1544068027169,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationTile/reservationTile.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationTile/reservationTile.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1544068027169,
+            "changeTime": 1544068027169,
+            "contentHash": "d0840adc26bdefc45e4f8b1ca115367324a16255"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationTile/reservationTile.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationTile/reservationTile.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3737,
+            "modifiedTime": 1544068027169,
+            "changeTime": 1544068027169,
+            "contentHash": "1c15f1c55965ac784ceb771cf7f5de931702e512"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationTile/reservationTileHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationTile/reservationTileHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 860,
+            "modifiedTime": 1544068027169,
+            "changeTime": 1544068027169,
+            "contentHash": "39ea8763b9996688d22351411f5aa62f4a6bea68"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationTile/reservationTileController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationTile/reservationTileController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 938,
+            "modifiedTime": 1544068027169,
+            "changeTime": 1544068027169,
+            "contentHash": "dd93b98cfdf5419c9f485aae1092f9010c3820e5"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1544068027170,
+            "changeTime": 1544068027170,
+            "contentHash": "d0840adc26bdefc45e4f8b1ca115367324a16255"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pillDeselect/pillDeselect.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pillDeselect/pillDeselect.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544068027172,
+            "changeTime": 1544068027172,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pillDeselect/pillDeselect.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pillDeselect/pillDeselect.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 121,
+            "modifiedTime": 1544068027172,
+            "changeTime": 1544068027172,
+            "contentHash": "c8f7774d83a753a36fd1e9da8b265080e7228de9"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pillTile/pillTile.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pillTile/pillTile.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544068027173,
+            "changeTime": 1544068027173,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pillTile/pillTile.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pillTile/pillTile.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 709,
+            "modifiedTime": 1544068027173,
+            "changeTime": 1544068027173,
+            "contentHash": "16dc390c4b4b1d9eb3f7c4b0672029d016621668"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pillTile/pillTileController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pillTile/pillTileController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 647,
+            "modifiedTime": 1544068027173,
+            "changeTime": 1544068027173,
+            "contentHash": "c1d6d8c6714824ae19edcbda36951768abef6b91"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pillTile/pillTileHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pillTile/pillTileHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 362,
+            "modifiedTime": 1544068027174,
+            "changeTime": 1544068027174,
+            "contentHash": "5404354314c8c9c6b3fb18d499c2e58402098c95"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/smartGallery/smartGallery.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/smartGallery/smartGallery.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544068027174,
+            "changeTime": 1544068027174,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/smartGallery/smartGalleryController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/smartGallery/smartGalleryController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1362,
+            "modifiedTime": 1544068027174,
+            "changeTime": 1544068027174,
+            "contentHash": "447866e499ee002b8fc526e999fc649712f2b838"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/smartGallery/smartGalleryHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/smartGallery/smartGalleryHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1167,
+            "modifiedTime": 1544068027175,
+            "changeTime": 1544068027175,
+            "contentHash": "6c54aebbb096fe7a83f6171c61d21ec0f6e4326f"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/smartGallery/smartGallery.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/smartGallery/smartGallery.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3601,
+            "modifiedTime": 1544068027175,
+            "changeTime": 1544068027175,
+            "contentHash": "e24a9be1d4f5ec33134ce049a1b9cc57d8965c37"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/smartGallery/smartGallery.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/smartGallery/smartGallery.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 296,
+            "modifiedTime": 1544068027175,
+            "changeTime": 1544068027175,
+            "contentHash": "7080ad772626e9e7e00e51623554605f2d62a95f"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/selectChange/selectChange.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/selectChange/selectChange.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544068027176,
+            "changeTime": 1544068027176,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/selectChange/selectChange.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/selectChange/selectChange.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 230,
+            "modifiedTime": 1544068027176,
+            "changeTime": 1544068027176,
+            "contentHash": "314091fa49c8c4f8c1a231416f0aa266c829a573"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/defaultTokens/defaultTokens.tokens-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/defaultTokens/defaultTokens.tokens-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544068027176,
+            "changeTime": 1544068027176,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/defaultTokens/defaultTokens.tokens",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/defaultTokens/defaultTokens.tokens",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1544068027177,
+            "changeTime": 1544068027177,
+            "contentHash": "530fc21a2bf34902943101f610777e13c9368c3c"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/galleryTile/galleryTile.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/galleryTile/galleryTile.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544068027177,
+            "changeTime": 1544068027177,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/galleryTile/galleryTile.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/galleryTile/galleryTile.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1581,
+            "modifiedTime": 1544068027177,
+            "changeTime": 1544068027177,
+            "contentHash": "427525b77e43549342fd9d61c3ef83c4ea605bb8"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/galleryTile/galleryTile.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/galleryTile/galleryTile.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 273,
+            "modifiedTime": 1544068027178,
+            "changeTime": 1544068027178,
+            "contentHash": "b439b7d13cd88c662ce25d2dad3a926d9fdbeb1a"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/galleryTile/galleryTileHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/galleryTile/galleryTileHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 634,
+            "modifiedTime": 1544068027178,
+            "changeTime": 1544068027178,
+            "contentHash": "c2517c2523642d377a077f1ade07648567369292"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/galleryTile/galleryTileController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/galleryTile/galleryTileController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1263,
+            "modifiedTime": 1544068027178,
+            "changeTime": 1544068027178,
+            "contentHash": "409861056a093e652dc359f0a5e4b7eb750253cb"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesigner.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesigner.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544068027179,
+            "changeTime": 1544068027179,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesignerController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesignerController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1190,
+            "modifiedTime": 1544068027179,
+            "changeTime": 1544068027179,
+            "contentHash": "c9a7c2c2fbe71c0d6b7762352a8134d0504363db"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesigner.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesigner.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 966,
+            "modifiedTime": 1544068027179,
+            "changeTime": 1544068027179,
+            "contentHash": "fd2a3860304a407719a0f25662f3a5e5c25bd6a0"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesigner.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesigner.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1307,
+            "modifiedTime": 1544068027179,
+            "changeTime": 1544068027179,
+            "contentHash": "cf57fd7c513e0a8773e4328fa713533b5a7f1208"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesignerHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/spaceDesigner/spaceDesignerHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 804,
+            "modifiedTime": 1544068027179,
+            "changeTime": 1544068027179,
+            "contentHash": "ed1639c5a954290be1588e245a5007a21069e1d5"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/muteTiles/muteTiles.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/muteTiles/muteTiles.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544068027180,
+            "changeTime": 1544068027180,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/muteTiles/muteTiles.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/muteTiles/muteTiles.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 181,
+            "modifiedTime": 1544068027180,
+            "changeTime": 1544068027180,
+            "contentHash": "3c2a958917f01d4e5d49610e01c514e1c3a3ad8e"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pillSelect/pillSelect.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pillSelect/pillSelect.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544068027181,
+            "changeTime": 1544068027181,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pillSelect/pillSelect.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pillSelect/pillSelect.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 121,
+            "modifiedTime": 1544068027181,
+            "changeTime": 1544068027181,
+            "contentHash": "c8f7774d83a753a36fd1e9da8b265080e7228de9"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/selectObject/selectObject.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/selectObject/selectObject.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544068027181,
+            "changeTime": 1544068027181,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/selectObject/selectObject.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/selectObject/selectObject.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 177,
+            "modifiedTime": 1544068027182,
+            "changeTime": 1544068027182,
+            "contentHash": "e3e6333dfbb5511848c476b369fc54ff8cb08ebb"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/flexipages/Spaces_Designer.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/flexipages/Spaces_Designer.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 714,
+            "modifiedTime": 1544068027182,
+            "changeTime": 1544068027182,
+            "contentHash": "35b32814a0311592e5e07b4576415a3622d8efff"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/tabs/Spaces_Designer.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/tabs/Spaces_Designer.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 322,
+            "modifiedTime": 1544068027183,
+            "changeTime": 1544068027183,
+            "contentHash": "a7866ef798deba0c3046d3e63ee34630dcd1f819"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/flows/spaceDesigner.flow-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/flows/spaceDesigner.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5096,
+            "modifiedTime": 1544068027187,
+            "changeTime": 1544068027187,
+            "contentHash": "d1d199cdc5e4c74b418dca96c41e9c9df82068f8"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pill",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pill",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1544068027166,
+            "changeTime": 1544068027166,
+            "contentHash": "87db8f9247448c45b0355b8d6278477df85d9738"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationList",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1544068027168,
+            "changeTime": 1544068027168,
+            "contentHash": "877d3872e603d651e9edb824870516646dc9f04b"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationTile",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/reservationTile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1544068027169,
+            "changeTime": 1544068027169,
+            "contentHash": "a1e7c21d7ebc36e9b53b127840034e5e2ea4ab19"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pillDeselect",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pillDeselect",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1544068027172,
+            "changeTime": 1544068027172,
+            "contentHash": "0910499d77556b086510e7cfa8f0530e033a51a9"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pillTile",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pillTile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1544068027173,
+            "changeTime": 1544068027173,
+            "contentHash": "b333b8f65c34595128f9900d2f368c6a0fd180c5"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/smartGallery",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/smartGallery",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1544068027175,
+            "changeTime": 1544068027175,
+            "contentHash": "81d748c5dca289c52a3a36346dbdeb64775d12ee"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/selectChange",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/selectChange",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1544068027176,
+            "changeTime": 1544068027176,
+            "contentHash": "b64649d5e6e5b7a7ff913e52f657425fe1a2677c"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/defaultTokens",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/defaultTokens",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1544068027177,
+            "changeTime": 1544068027177,
+            "contentHash": "9c13df0e131455c056bf7320226e1f7b5dfc93ce"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/galleryTile",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/galleryTile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1544068027178,
+            "changeTime": 1544068027178,
+            "contentHash": "b4bd49ed896c0c6b2335fafd81e63235bea271b6"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/spaceDesigner",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/spaceDesigner",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1544068027179,
+            "changeTime": 1544068027179,
+            "contentHash": "4eccfc141d5e6e54ff30cd0233d4c48a2783d79a"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/muteTiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/muteTiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1544068027180,
+            "changeTime": 1544068027180,
+            "contentHash": "0a75aa075d8e180e02b29af9db3e9075b9db772e"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pillSelect",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/pillSelect",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1544068027181,
+            "changeTime": 1544068027181,
+            "contentHash": "dcce781f0f987ab0b34d48118c37fb9c242164a8"
+        }
+    ],
+    [
+        "/Users/tkpang/dev/myeasy/force-app/main/default/aura/selectObject",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tkpang/dev/myeasy/force-app/main/default/aura/selectObject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1544068027182,
+            "changeTime": 1544068027182,
+            "contentHash": "c136c4d4c9606b1ec48ec2ad46c6a209d5981528"
         }
     ]
 ]
